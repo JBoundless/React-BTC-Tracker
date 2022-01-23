@@ -10,5 +10,3 @@ export default function App() {
     </div>
   );
 }
-
-/* TUTORIAL: https://www.pluralsight.com/guides/create-a-real-time-bitcoin-price-tracker-in-reactjs */
